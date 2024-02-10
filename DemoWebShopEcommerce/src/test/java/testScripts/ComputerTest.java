@@ -8,6 +8,7 @@ public class ComputerTest {
 	public void test() {
 		System.out.println("hi sir");
 		System.out.println("bye sir");
+		System.out.println("I love you all too");
 	}
 	
 }
