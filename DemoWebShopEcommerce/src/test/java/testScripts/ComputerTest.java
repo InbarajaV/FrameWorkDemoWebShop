@@ -6,6 +6,8 @@ public class ComputerTest {
 
 	@Test
 	public void test() {
-		System.out.println("Git hub test");
+		System.out.println("hi sir");
+		System.out.println("bye sir");
 	}
+	
 }
