@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 import com.relevantcodes.extentreports.ExtentReports;
 import com.relevantcodes.extentreports.ExtentTest;
 import com.relevantcodes.extentreports.LogStatus;
-// Hi
+// Hi inba
 public class Reportexample {
 ExtentReports report= new ExtentReports("./Reports/report.html");
 @Test
